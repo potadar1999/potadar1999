@@ -5,8 +5,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?w=2000">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potadar1999&label=Profile%20views&color=0e75b6&style=flat" alt="potadar1999" /> </p>
+
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 - 🌱 I’m currently learning **MYSQL**
 
