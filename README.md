@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **potadar1999@gmail.com**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sandhya-potadar/**
+- 📫 connect with me **https://www.linkedin.com/in/sandhya-potadar/**
 
 
 <h3 align="left">Connect with me:</h3>
