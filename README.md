@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandhya Potadar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?w=2000">
 
