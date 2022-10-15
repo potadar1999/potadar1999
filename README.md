@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MYSQL**
 
-- 👨‍💻 All of my projects are available at [https://potadar1999.github.io/Portfolio/](https://potadar1999.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/potadar1999/Portfolio](https://github.com/potadar1999/Portfolio)
 
 - 💬 Ask me about **Core Java**
 
