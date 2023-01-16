@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://potadar1999.github.io/Portfolio/](https://potadar1999.github.io/Portfolio/)
 
+- 👯 I’m looking to collaborate on Interesting Projects Using Java
+
 - 💬 Ask me about **Core Java**
 
 - 📫 How to reach me **potadar1999@gmail.com**
