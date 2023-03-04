@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **potadar1999@gmail.com**
 
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react-dark)
 
 <h3 align="left">Connect with me:</h3>
 
