@@ -12,7 +12,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
+- I’m currently pursuing *JAVA Back-End*
+
 - 🌱 I’m currently learning **MYSQL**
+
+- Ask me about JAVA/Spring Core/Spring Boot/Hibernet/MySql
 
 - 👨‍💻 All of my projects are available at [https://potadar1999.github.io/Portfolio/](https://potadar1999.github.io/Portfolio/)
 
