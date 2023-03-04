@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sandhya Potadar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">I'm an aspiring Java Backend developer with 1000+ hours of coding experience in Java and JavaScript. Passionate about coding and self motivated with a keen interest in building user-centric products. Looking forward to utilizing my skills in a challenging work environment.
+
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/girl-using-laptop-with-binary-code_1308-114505.jpg?w=2000">
 
